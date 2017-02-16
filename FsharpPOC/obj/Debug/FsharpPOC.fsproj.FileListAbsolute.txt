@@ -1,0 +1,8 @@
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FsharpPOC.exe.config
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FsharpPOC.XML
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FsharpPOC.exe
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FsharpPOC.pdb
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FSharp.Core.dll
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\bin\Debug\FSharp.Core.xml
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\obj\Debug\FsharpPOC.exe
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\FsharpPOC\obj\Debug\FsharpPOC.pdb

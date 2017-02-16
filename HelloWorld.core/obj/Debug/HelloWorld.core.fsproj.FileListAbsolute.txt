@@ -1,0 +1,7 @@
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\bin\Debug\HelloWorld.core.XML
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\bin\Debug\HelloWorld.core.dll
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\bin\Debug\HelloWorld.core.pdb
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\bin\Debug\FSharp.Core.dll
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\bin\Debug\FSharp.Core.xml
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\obj\Debug\HelloWorld.core.dll
+C:\Users\akhill\documents\visual studio 2015\Projects\FsharpPOC\HelloWorld.core\obj\Debug\HelloWorld.core.pdb
